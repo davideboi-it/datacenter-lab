@@ -19,6 +19,7 @@ verification, issues and lessons learned.
 | 2026-10-23 | System update and reboot | apt, kernel, change management | [VMUpdate](entries/2026-10-23-vm-update.md)
 | 2026-11-02 | Network lab - Part 1 | ping, ip route, change of a mirror, traceroute  | [Networking Part1](entries/2026-11-02-networking-pt1.md)
 | 2026-11-04 | Network lab - Part 2 | ss -tulpn, netstat, NAT vs Bridged, snapshot rollback  | [Networking Part2](entries/2026-11-04-networking-pt2.md)
+| 2026-11-14 | ssh Hardening | keygen, sshd, ufw, tests  | [sshHardening](entries/2026-11-14-ssh-hardening.md)
 
 ## Related repositories
 - [linux-training-lab](https://github.com/davideboi-it/linux-training-lab): Linux Essentials notes and exercises

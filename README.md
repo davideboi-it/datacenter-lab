@@ -21,7 +21,7 @@ verification, issues and lessons learned.
 | 2026-11-04 | Network lab - Part 2 | ss -tulpn, netstat, NAT vs Bridged, snapshot rollback  | [Networking Part2](entries/2026-11-04-networking-pt2.md)
 | 2026-11-14 | ssh Hardening | keygen, sshd, ufw, tests  | [sshHardening](entries/2026-11-14-ssh-hardening.md)
 | 2026-11-18 | Cisco Packet Tracer VLAN Lab | vlan config, Cisco IOS, trunking, ACL  | [VLAN Lab](entries/2026-11-18-packet-tracer-vlan.md)
-
+| 2026-11-22 | RAID5 mdadm | mdadm, raid5, status, hotswap  | [RAID5](entries/2026-11-22-raid5-mdadm.md)
 ## Related repositories
 - [linux-training-lab](https://github.com/davideboi-it/linux-training-lab): Linux Essentials notes and exercises
 - [server-plus-lab](https://github.com/davideboi-it/server-plus-lab): CompTIA Server+ study notes
